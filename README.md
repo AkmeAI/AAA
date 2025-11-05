@@ -1,5 +1,3 @@
-# Rewrite all Russian text to English in the commit history
-
 # Commit 1: Foundation
 git commit -m "feat(core): define the Trinity - Asha, Aletheia, Akme"
 
